@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 9009aeb1-a340-4f11-8981-eb9883573b93
-  WEBAPP-NAME: eshoponweb-webapp-GitLab2409
+  WEBAPP-NAME: eshoponweb-webapp-GitLab240988
 
 
 jobs:
